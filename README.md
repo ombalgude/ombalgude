@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Hey I'm Om</h2>
 
 ###
