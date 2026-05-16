@@ -80,17 +80,19 @@ Product-focused full-stack engineer building scalable systems, real-time applica
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
   <img width="40" />
   
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="40" />
 </div>
 
 <br>
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+   <img width="40" />
+  
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="github actions logo" />
   <img width="40" />
 
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
+ 
 </div>
 
 ###
