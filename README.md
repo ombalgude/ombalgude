@@ -5,7 +5,7 @@
 <p align="left"><b>3x Intern · Full-Stack Engineer · Product Builder</b></p>
 
 <p align="left">
-Full-stack engineer building AI-powered products end-to-end — backend APIs, real-time systems, and production-ready frontends. 3x intern with hands-on experience across RAG pipelines, AI-assisted workflows, and distributed systems. Focused on clean architecture, scalable backend engineering, and shipping polished, production-grade software fast.
+Full-stack engineer building AI-powered products end-to-end backend APIs, real-time systems, and production-ready frontends. 3x intern with hands on experience across RAG pipelines, AI-assisted workflows, and distributed systems. Focused on clean architecture, scalable backend engineering, and shipping polished, production-grade software fast.
 </p>
 
 <div align="left">
