@@ -10,24 +10,15 @@ Full-stack engineer building AI-powered products end-to-end backend APIs, real-t
 
 <br clear="both">
 
-<div align="left">
-  
-  <a href="https://arc.ombalgude.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/ombalgude" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://x.com/omm_0405" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-
-  <a href="mailto:ombalgude54@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<p align="left">
+  <a href="https://arc.ombalgude.app">Portfolio ↗</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ombalgude">LinkedIn ↗</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://x.com/omm_0405">X ↗</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="mailto:ombalgude54@gmail.com">Email</a>
+</p>
 
 <br clear="both">
 
