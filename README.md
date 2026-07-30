@@ -36,16 +36,16 @@ Full-stack engineer building AI-powered products end-to-end backend APIs, real-t
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img width="30" />
+  <img width="40" />
 
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
-  <img width="30" />
+  <img width="40" />
 
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
-  <img width="30" />
+  <img width="40" />
 
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="30" />
+  <img width="40" />
 
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++ logo" />
 </div>
