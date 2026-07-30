@@ -8,6 +8,8 @@
 Full-stack engineer building AI-powered products end-to-end backend APIs, real-time systems, and production-ready frontends. 3x intern with hands on experience across RAG pipelines, AI-assisted workflows, and distributed systems. Focused on clean architecture, scalable backend engineering, and shipping polished, production-grade software fast.
 </p>
 
+<br clear="both">
+
 <div align="left">
   <a href="https://www.linkedin.com/in/ombalgude" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -19,6 +21,8 @@ Full-stack engineer building AI-powered products end-to-end backend APIs, real-t
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
+<br clear="both">
 
 <p align="left">
 🌱 Currently deepening my skills in AI agent orchestration, RAG systems, and distributed backend architecture
