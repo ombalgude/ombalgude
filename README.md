@@ -11,11 +11,11 @@ Full-stack engineer building AI-powered products end-to-end backend APIs, real-t
 <br clear="both">
 
 <p align="left">
-  <a href="https://ombalgude.app">Portfolio ↗</a>
+  <a href="https://ombalgude.app" target="_blank" rel="noopener noreferrer">Portfolio ↗</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ombalgude">LinkedIn ↗</a>
+  <a href="https://www.linkedin.com/in/ombalgude" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://x.com/omm_0405">X ↗</a>
+  <a href="https://x.com/omm_0405" target="_blank" rel="noopener noreferrer">X ↗</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:ombalgude54@gmail.com">Email</a>
 </p>
