@@ -11,7 +11,7 @@ Full-stack engineer building AI-powered products end-to-end backend APIs, real-t
 <br clear="both">
 
 <p align="left">
-  <a href="https://arc.ombalgude.app">Portfolio ↗</a>
+  <a href="https://ombalgude.app">Portfolio ↗</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ombalgude">LinkedIn ↗</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
