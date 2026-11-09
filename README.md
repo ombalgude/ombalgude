@@ -2,11 +2,11 @@
 
 <h2 align="left">Hey I'm Om 👋</h2>
 
-<p align="left"><b>Full-Stack Engineer · Product Builder</b></p>
+<p align="left"><b>Full-Stack Engineer · Product Builder Founding · Engineer</b></p>
 
-<p align="left">
+<!-- <p align="left">
 Full-stack engineer building AI-powered products end-to-end backend APIs, real-time systems, and production-ready frontends. 3x intern with hands on experience across RAG pipelines, AI-assisted workflows, and distributed systems. Focused on clean architecture, scalable backend engineering, and shipping polished, production-grade software fast.
-</p>
+</p> -->
 
 <br clear="both">
 
@@ -22,9 +22,9 @@ Full-stack engineer building AI-powered products end-to-end backend APIs, real-t
 
 <br clear="both">
 
-<p align="left">
+<!-- <p align="left">
 🌱 Currently deepening my skills in AI agent orchestration, RAG systems, and distributed backend architecture
-</p>
+</p> -->
 
 <h2 align="left">Skills</h2>
 
